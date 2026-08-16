@@ -11,6 +11,12 @@ Built with **Python, scikit-learn, and Streamlit**.
 
 ---
 
+## 🚀 Live Demo
+
+👉 **[Try the Student Academic Success Predictor](https://student-academic-success-predictor-tg488prfrmdctwe3redksr.streamlit.app/)**
+
+---
+
 ## 📌 Overview
 
 This project demonstrates an end-to-end machine learning workflow:
